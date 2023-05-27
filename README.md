@@ -1,5 +1,5 @@
-### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=51F744&width=435&lines=0-1-0-1-0-2-3-4-5-698-94)](https://git.io/typing-svg)
 <!--
 **rayanzoram40/rayanzoram40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
